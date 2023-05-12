@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Hjiwnain/hjiwnain/blob/main/undraw_hey_email_liaa.png" width="1100" height="400">
 <a href="https://git.io/typing-svg">
-  <center><img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=FF79C6&size=40&width=550&height=60&lines=Analyst+Devloper+Programmer;Weclome+to+my+profile+!!" /></center>
+  <center><img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=FF79C6&size=40&width=550&height=60&lines=Analyst+Devloper+Programmer;Welcome+to+my+profile+!!" /></center>
 </a>
 <br>
 <!-- 
